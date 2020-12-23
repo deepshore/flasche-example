@@ -9,6 +9,11 @@ Clone this repo:
 git clone https://github.com/deepshore/flasche-example
 ````
 
+and join it:
+```bash
+cd flasche-example
+```
+
 ## Create and activate a virtual environment
 
 Create a venv like this:
